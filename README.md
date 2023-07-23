@@ -5,7 +5,7 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 ## Setup
  
 ```
-    $ git clone https:https://github.com/MANASAKOLLI6/ecommerce/tree/main
+    $ git clone https://github.com/MANASAKOLLI6/ecommerce/tree/main
     $ cd ecommerceAPI
     $ npm install
 ```
