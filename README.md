@@ -214,7 +214,7 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 `DELETE |  /api/v1/orders/{id}` 
 
 ## Author
-[Kshanaprava Jena](https://Kshanaprava.github.io/)
+[MANASA_KOLLI](https://github.com/MANASAKOLLI6/ecommerce/tree/main))
 
 ## License
 
